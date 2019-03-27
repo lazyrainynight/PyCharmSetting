@@ -1,0 +1,14 @@
+<application>
+  <component name="DefaultFont">
+    <option name="FONT_SIZE" value="17" />
+    <option name="FONT_FAMILY" value="D2Coding ligature" />
+    <option name="USE_LIGATURES" value="true" />
+    <option name="SECONDARY_FONT_FAMILY" value="PragmataPro Mono" />
+  </component>
+  <component name="EditorSettings">
+    <option name="IS_WHITESPACES_SHOWN" value="true" />
+    <option name="ADDITIONAL_PAGE_AT_BOTTOM" value="true" />
+    <option name="IS_DND_ENABLED" value="false" />
+    <option name="IS_WHEEL_FONTCHANGE_ENABLED" value="true" />
+  </component>
+</application>
