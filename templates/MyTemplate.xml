@@ -39,4 +39,14 @@
       <option name="Python" value="true" />
     </context>
   </template>
+  <template name="ee" value="== " description="equal" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+  <template name="ne" value="!= " description="not equal" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
 </templateSet>
