@@ -3,7 +3,7 @@
     <property name="created">2017-06-26T01:10:49</property>
     <property name="ide">Python</property>
     <property name="ideVersion">2017.1.4.0.0</property>
-    <property name="modified">2019-06-28T14:54:40</property>
+    <property name="modified">2019-06-28T15:04:13</property>
     <property name="originalScheme">Darcula</property>
   </metaInfo>
   <attributes>
@@ -85,6 +85,11 @@
         <option name="FOREGROUND" value="9c5425" />
       </value>
     </option>
+    <option name="DEFAULT_PREDEFINED_SYMBOL">
+      <value>
+        <option name="FOREGROUND" value="ac9870" />
+      </value>
+    </option>
     <option name="DEFAULT_REASSIGNED_LOCAL_VARIABLE">
       <value>
         <option name="FOREGROUND" value="b55b79" />
@@ -119,11 +124,7 @@
         <option name="FOREGROUND" value="d69d85" />
       </value>
     </option>
-    <option name="PY.BUILTIN_NAME">
-      <value>
-        <option name="FOREGROUND" value="9d9ded" />
-      </value>
-    </option>
+    <option name="PY.BUILTIN_NAME" baseAttributes="DEFAULT_PREDEFINED_SYMBOL" />
     <option name="PY.DECORATOR">
       <value>
         <option name="FOREGROUND" value="b58d29" />
@@ -131,19 +132,12 @@
       </value>
     </option>
     <option name="PY.KEYWORD" baseAttributes="DEFAULT_KEYWORD" />
-    <option name="PY.KEYWORD_ARGUMENT">
+    <option name="PY.KEYWORD_ARGUMENT" baseAttributes="DEFAULT_PARAMETER" />
+    <option name="PY.PREDEFINED_DEFINITION" baseAttributes="DEFAULT_PREDEFINED_SYMBOL" />
+    <option name="PY.PREDEFINED_USAGE" baseAttributes="DEFAULT_PREDEFINED_SYMBOL" />
+    <option name="PY.SELF_PARAMETER">
       <value>
-        <option name="FOREGROUND" value="e8e8c0" />
-      </value>
-    </option>
-    <option name="PY.PREDEFINED_DEFINITION">
-      <value>
-        <option name="FOREGROUND" value="9d9ded" />
-      </value>
-    </option>
-    <option name="PY.PREDEFINED_USAGE">
-      <value>
-        <option name="FOREGROUND" value="9d9ded" />
+        <option name="FOREGROUND" value="818181" />
       </value>
     </option>
     <option name="PY.STRING.B" baseAttributes="DEFAULT_STRING" />
