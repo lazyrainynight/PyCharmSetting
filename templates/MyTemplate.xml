@@ -69,4 +69,11 @@
       <option name="OTHER" value="true" />
     </context>
   </template>
+  <template name="iterr" value="for $VAR1$ in range($VAR2$):&#10;    $END$" description="iter range" toReformat="false" toShortenFQNames="true">
+    <variable name="VAR1" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="VAR2" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="Python" value="true" />
+    </context>
+  </template>
 </templateSet>
