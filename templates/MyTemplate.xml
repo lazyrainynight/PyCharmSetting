@@ -39,12 +39,12 @@
       <option name="Python" value="true" />
     </context>
   </template>
-  <template name="ee" value="== " description="equal" toReformat="true" toShortenFQNames="true">
+  <template name="ee" value="== " description="==" toReformat="true" toShortenFQNames="true">
     <context>
       <option name="OTHER" value="true" />
     </context>
   </template>
-  <template name="ne" value="!= " description="not equal" toReformat="true" toShortenFQNames="true">
+  <template name="ne" value="!= " description="!=" toReformat="true" toShortenFQNames="true">
     <context>
       <option name="OTHER" value="true" />
     </context>
@@ -54,7 +54,7 @@
       <option name="OTHER" value="true" />
     </context>
   </template>
-  <template name="le" value="&lt;= " description="&gt;=" toReformat="true" toShortenFQNames="true">
+  <template name="le" value="&lt;= " description="&lt;=" toReformat="true" toShortenFQNames="true">
     <context>
       <option name="OTHER" value="true" />
     </context>
