@@ -39,32 +39,32 @@
       <option name="Python" value="true" />
     </context>
   </template>
-  <template name="ee" value="== " description="==" toReformat="true" toShortenFQNames="true">
+  <template name="ee" value="== " description="==" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="OTHER" value="true" />
     </context>
   </template>
-  <template name="ne" value="!= " description="!=" toReformat="true" toShortenFQNames="true">
+  <template name="ne" value="!= " description="!=" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="OTHER" value="true" />
     </context>
   </template>
-  <template name="gt" value="&gt; " description="&gt;" toReformat="true" toShortenFQNames="true">
+  <template name="gt" value="&gt; " description="&gt;" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="OTHER" value="true" />
     </context>
   </template>
-  <template name="le" value="&lt;= " description="&lt;=" toReformat="true" toShortenFQNames="true">
+  <template name="le" value="&lt;= " description="&lt;=" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="OTHER" value="true" />
     </context>
   </template>
-  <template name="ge" value="&gt;= " description="&gt;=" toReformat="true" toShortenFQNames="true">
+  <template name="ge" value="&gt;= " description="&gt;=" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="OTHER" value="true" />
     </context>
   </template>
-  <template name="lt" value="&lt; " description="&lt;" toReformat="true" toShortenFQNames="true">
+  <template name="lt" value="&lt; " description="&lt;" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="OTHER" value="true" />
     </context>
