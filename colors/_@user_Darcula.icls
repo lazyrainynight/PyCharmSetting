@@ -3,7 +3,7 @@
     <property name="created">2017-06-26T01:10:49</property>
     <property name="ide">Python</property>
     <property name="ideVersion">2017.1.4.0.0</property>
-    <property name="modified">2019-06-28T15:04:13</property>
+    <property name="modified">2019-09-22T20:32:13</property>
     <property name="originalScheme">Darcula</property>
   </metaInfo>
   <attributes>
@@ -141,5 +141,12 @@
       </value>
     </option>
     <option name="PY.STRING.B" baseAttributes="DEFAULT_STRING" />
+    <option name="TEXT">
+      <value>
+        <option name="FOREGROUND" value="c0c0c0" />
+        <option name="BACKGROUND" value="2b2b2b" />
+        <option name="EFFECT_TYPE" value="5" />
+      </value>
+    </option>
   </attributes>
 </scheme>
