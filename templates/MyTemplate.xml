@@ -121,4 +121,24 @@
       <option name="OTHER" value="true" />
     </context>
   </template>
+  <template name="pp" value="+= 1" description="plus one" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="Python" value="true" />
+    </context>
+  </template>
+  <template name="mm" value="-= 1" description="minus one" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="Python" value="true" />
+    </context>
+  </template>
+  <template name="po" value="+ 1" description="plus one" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+  <template name="mo" value="- 1" description="minus one" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
 </templateSet>
