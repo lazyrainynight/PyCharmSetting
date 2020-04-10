@@ -8,16 +8,14 @@
     <option name="INDENT_TO_CARET_ON_PASTE" value="true" />
   </component>
   <component name="DefaultFont">
-    <option name="FONT_SIZE" value="20" />
-    <option name="FONT_FAMILY" value="PragmataPro Mono Liga" />
+    <option name="FONT_SIZE" value="19" />
+    <option name="FONT_FAMILY" value="D2Coding ligature" />
     <option name="LINE_SPACING" value="1.1" />
     <option name="USE_LIGATURES" value="true" />
-    <option name="SECONDARY_FONT_FAMILY" value="D2Coding ligature" />
   </component>
   <component name="EditorSettings">
     <option name="SOFT_WRAP_FILE_MASKS" value="*.md; *.txt; *.rst; *.adoc" />
     <option name="STRIP_TRAILING_SPACES" value="Whole" />
-    <option name="SHOW_QUICK_DOC_ON_MOUSE_OVER_ELEMENT" value="true" />
     <option name="IS_WHITESPACES_SHOWN" value="true" />
   </component>
   <component name="XmlFoldingSettings">
