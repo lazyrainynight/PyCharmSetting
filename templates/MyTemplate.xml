@@ -151,4 +151,11 @@
       <option name="OTHER" value="true" />
     </context>
   </template>
+  <template name="swap" value="$a$, $b$ = $b$, $a$" description="Swap" toReformat="false" toShortenFQNames="true">
+    <variable name="a" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="b" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="Python" value="true" />
+    </context>
+  </template>
 </templateSet>
