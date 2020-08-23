@@ -3,7 +3,7 @@
     <property name="created">2019-09-22T20:37:58</property>
     <property name="ide">Python</property>
     <property name="ideVersion">2019.2.2.0.0</property>
-    <property name="modified">2019-09-22T20:38:07</property>
+    <property name="modified">2020-08-23T00:01:47</property>
     <property name="originalScheme">_@user_Darcula</property>
   </metaInfo>
   <attributes>
@@ -144,7 +144,7 @@
     <option name="TEXT">
       <value>
         <option name="FOREGROUND" value="c0c0c0" />
-        <option name="BACKGROUND" value="2b2b2b" />
+        <option name="BACKGROUND" value="1e1e1e" />
         <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
