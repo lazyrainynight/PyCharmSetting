@@ -20,11 +20,19 @@
   <action id="EditorResetFontSize">
     <mouse-shortcut keystroke="control button2" />
   </action>
+  <action id="GotoNextError">
+    <keyboard-shortcut first-keystroke="f12" />
+  </action>
+  <action id="JumpToLastWindow" />
   <action id="Macro.Reformat -&gt; Save">
     <keyboard-shortcut first-keystroke="shift ctrl s" />
   </action>
   <action id="PinActiveTab">
     <keyboard-shortcut first-keystroke="shift alt z" />
+  </action>
+  <action id="RenameElement">
+    <keyboard-shortcut first-keystroke="shift f6" />
+    <keyboard-shortcut first-keystroke="f2" />
   </action>
   <action id="SplitVertically">
     <keyboard-shortcut first-keystroke="shift ctrl alt close_bracket" />
