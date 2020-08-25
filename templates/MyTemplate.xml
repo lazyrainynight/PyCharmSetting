@@ -165,8 +165,7 @@
       <option name="Python" value="true" />
     </context>
   </template>
-  <template name="mongo-and" value="{'$and$': [{'$KEY1$': '$VALUE1$'}, {'$KEY2$': '$VALUE2$'}]}" description="AND operation of MongoDB" toReformat="false" toShortenFQNames="true">
-    <variable name="and" expression="" defaultValue="" alwaysStopAt="true" />
+  <template name="mongo-and" value="{'$and': [{'$KEY1$': '$VALUE1$'}, {'$KEY2$': '$VALUE2$'}]}" description="AND operation of MongoDB" toReformat="false" toShortenFQNames="true">
     <variable name="KEY1" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="VALUE1" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="KEY2" expression="" defaultValue="" alwaysStopAt="true" />
@@ -175,8 +174,7 @@
       <option name="Python" value="true" />
     </context>
   </template>
-  <template name="mongo-or" value="{'$or$': [{'$KEY1$': '$VALUE1$'}, {'$KEY2$': '$VALUE2$'}]}" description="OR operation of MongoDB" toReformat="false" toShortenFQNames="true">
-    <variable name="or" expression="" defaultValue="" alwaysStopAt="true" />
+  <template name="mongo-or" value="{'$or': [{'$KEY1$': '$VALUE1$'}, {'$KEY2$': '$VALUE2$'}]}" description="OR operation of MongoDB" toReformat="false" toShortenFQNames="true">
     <variable name="KEY1" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="VALUE1" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="KEY2" expression="" defaultValue="" alwaysStopAt="true" />
