@@ -41,10 +41,10 @@
     <keyboard-shortcut first-keystroke="shift ctrl alt close_bracket" />
   </action>
   <action id="ToggleInlayHintsGloballyAction">
-    <keyboard-shortcut first-keystroke="shift alt p" />
+    <keyboard-shortcut first-keystroke="shift alt h" />
   </action>
   <action id="ToggleInlineHintsAction">
-    <keyboard-shortcut first-keystroke="shift ctrl alt p" />
+    <keyboard-shortcut first-keystroke="shift alt p" />
   </action>
   <action id="ToggleTemporaryLineBreakpoint" />
   <action id="Vcs.ShowTabbedFileHistory">
