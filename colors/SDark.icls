@@ -3,7 +3,7 @@
     <property name="created">2019-09-22T20:37:58</property>
     <property name="ide">Python</property>
     <property name="ideVersion">2019.2.2.0.0</property>
-    <property name="modified">2020-08-23T00:01:47</property>
+    <property name="modified">2020-09-26T21:16:54</property>
     <property name="originalScheme">_@user_Darcula</property>
   </metaInfo>
   <attributes>
@@ -27,10 +27,14 @@
         <option name="FOREGROUND" value="e88498" />
       </value>
     </option>
+    <option name="DEFAULT_DOC_COMMENT">
+      <value>
+        <option name="FOREGROUND" value="629755" />
+      </value>
+    </option>
     <option name="DEFAULT_DOC_COMMENT_TAG">
       <value>
         <option name="FOREGROUND" value="629755" />
-        <option name="FONT_TYPE" value="2" />
         <option name="EFFECT_COLOR" value="629755" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
@@ -146,6 +150,12 @@
         <option name="FOREGROUND" value="c0c0c0" />
         <option name="BACKGROUND" value="1e1e1e" />
         <option name="EFFECT_TYPE" value="5" />
+      </value>
+    </option>
+    <option name="TODO_DEFAULT_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="a8c023" />
+        <option name="ERROR_STRIPE_COLOR" value="977ab" />
       </value>
     </option>
   </attributes>
