@@ -165,13 +165,6 @@
       <option name="Python" value="true" />
     </context>
   </template>
-  <template name="mongo-and" value="{'$and': [{'$KEY$': $VAL$}]}" description="AND operation of MongoDB" toReformat="false" toShortenFQNames="true">
-    <variable name="KEY" expression="" defaultValue="" alwaysStopAt="true" />
-    <variable name="VAL" expression="" defaultValue="" alwaysStopAt="true" />
-    <context>
-      <option name="Python" value="true" />
-    </context>
-  </template>
   <template name="mongo-or" value="{'$or': [{'$KEY$': $VAL$}]}" description="OR operation of MongoDB" toReformat="false" toShortenFQNames="true">
     <variable name="KEY" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="VAL" expression="" defaultValue="" alwaysStopAt="true" />

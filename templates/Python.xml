@@ -1,0 +1,9 @@
+<templateSet group="Python">
+  <template name="mongo-and" value="{'$and': [{'$KEY$': $VAL$}]}" description="AND @ mongodb" toReformat="false" toShortenFQNames="true">
+    <variable name="KEY" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="VAL" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="Python" value="true" />
+    </context>
+  </template>
+</templateSet>
