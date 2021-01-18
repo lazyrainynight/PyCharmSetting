@@ -179,4 +179,43 @@
       <option name="Python" value="true" />
     </context>
   </template>
+  <template name="mongo-set" value="{'$set': {'$KEY$': $VAL$}}" description="set @ mongodb" toReformat="false" toShortenFQNames="true">
+    <variable name="KEY" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="VAL" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="Python" value="true" />
+    </context>
+  </template>
+  <template name="mongo-sort" value="sort({'$a$': 1})" description="Sort() @ mongodb" toReformat="false" toShortenFQNames="true">
+    <variable name="a" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="Python" value="true" />
+    </context>
+  </template>
+  <template name="mongo-sort-desc" value="sort({'$a$': -1})" description="Sort() desc @ mongodb" toReformat="false" toShortenFQNames="true">
+    <variable name="a" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="Python" value="true" />
+    </context>
+  </template>
+  <template name="mongo-update-many" value="db.$COLLECTION$.update_many({'$a$', $b$}, {'$set': {'$c$': $d$}})" description="updateMany @ mongodb" toReformat="false" toShortenFQNames="true">
+    <variable name="COLLECTION" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="a" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="b" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="c" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="d" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="Python" value="true" />
+    </context>
+  </template>
+  <template name="mongo-update-one" value="db.$COLLECTION$.update_one({'$a$', $b$}, {'$set': {'$c$': $d$}})" description="updateOne @ mongodb" toReformat="false" toShortenFQNames="true">
+    <variable name="COLLECTION" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="a" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="b" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="c" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="d" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="Python" value="true" />
+    </context>
+  </template>
 </templateSet>
