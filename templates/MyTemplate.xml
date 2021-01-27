@@ -218,4 +218,11 @@
       <option name="Python" value="true" />
     </context>
   </template>
+  <template name="mongo-conx" value="'$KEY$': $VAL$" description="condition @ mongodb" toReformat="false" toShortenFQNames="true">
+    <variable name="KEY" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="VAL" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="Python" value="true" />
+    </context>
+  </template>
 </templateSet>
