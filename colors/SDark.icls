@@ -3,7 +3,7 @@
     <property name="created">2019-09-22T20:37:58</property>
     <property name="ide">Python</property>
     <property name="ideVersion">2019.2.2.0.0</property>
-    <property name="modified">2021-01-18T22:06:38</property>
+    <property name="modified">2021-01-29T13:14:34</property>
     <property name="originalScheme">_@user_Darcula</property>
   </metaInfo>
   <attributes>
@@ -135,6 +135,11 @@
     <option name="DEFAULT_STRING">
       <value>
         <option name="FOREGROUND" value="d69d85" />
+      </value>
+    </option>
+    <option name="PY.ANNOTATION">
+      <value>
+        <option name="FOREGROUND" value="ac9870" />
       </value>
     </option>
     <option name="PY.BUILTIN_NAME" baseAttributes="DEFAULT_PREDEFINED_SYMBOL" />
