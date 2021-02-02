@@ -42,6 +42,9 @@
     <keyboard-shortcut first-keystroke="shift f6" />
     <keyboard-shortcut first-keystroke="f2" />
   </action>
+  <action id="SelectInProjectView">
+    <keyboard-shortcut first-keystroke="shift alt q" />
+  </action>
   <action id="SplitVertically">
     <keyboard-shortcut first-keystroke="shift ctrl alt close_bracket" />
   </action>
@@ -55,5 +58,6 @@
   <action id="Vcs.ShowTabbedFileHistory">
     <keyboard-shortcut first-keystroke="shift ctrl alt back_slash" />
   </action>
+  <action id="WD.UploadCurrentRemoteFileAction" />
   <action id="hg4idea.QPushAction" />
 </keymap>
