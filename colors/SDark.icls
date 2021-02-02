@@ -3,7 +3,7 @@
     <property name="created">2019-09-22T20:37:58</property>
     <property name="ide">Python</property>
     <property name="ideVersion">2019.2.2.0.0</property>
-    <property name="modified">2021-01-29T13:14:34</property>
+    <property name="modified">2021-01-30T00:22:49</property>
     <property name="originalScheme">_@user_Darcula</property>
   </metaInfo>
   <attributes>
@@ -128,7 +128,7 @@
     </option>
     <option name="DEFAULT_STATIC_METHOD">
       <value>
-        <option name="FOREGROUND" value="46b8c1" />
+        <option name="FOREGROUND" value="369a90" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
