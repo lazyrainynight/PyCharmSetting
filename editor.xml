@@ -3,4 +3,9 @@
     <option name="REFORMAT_ON_PASTE" value="1" />
     <option name="INDENT_TO_CARET_ON_PASTE" value="true" />
   </component>
+  <component name="DefaultFont">
+    <option name="FONT_SIZE" value="21" />
+    <option name="FONT_FAMILY" value="D2Coding ligature" />
+    <option name="USE_LIGATURES" value="true" />
+  </component>
 </application>
