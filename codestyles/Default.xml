@@ -1,6 +1,8 @@
 <code_scheme name="Default" version="173">
   <Python>
     <option name="NEW_LINE_AFTER_COLON" value="true" />
+    <option name="DICT_NEW_LINE_AFTER_LEFT_BRACE" value="true" />
+    <option name="FROM_IMPORT_NEW_LINE_AFTER_LEFT_PARENTHESIS" value="true" />
   </Python>
   <codeStyleSettings language="CoffeeScript">
     <indentOptions>
@@ -25,6 +27,9 @@
       <option name="CONTINUATION_INDENT_SIZE" value="4" />
       <option name="TAB_SIZE" value="4" />
     </indentOptions>
+  </codeStyleSettings>
+  <codeStyleSettings language="Python">
+    <option name="RIGHT_MARGIN" value="240" />
   </codeStyleSettings>
   <codeStyleSettings language="Shell Script">
     <indentOptions>
