@@ -198,7 +198,7 @@
       <option name="Python" value="true" />
     </context>
   </template>
-  <template name="mongo-update-many" value="db.$COLLECTION$.update_many({'$a$', $b$}, {'$set': {'$c$': $d$}})" description="updateMany @ mongodb" toReformat="false" toShortenFQNames="true">
+  <template name="mongo-update-many" value="db.$COLLECTION$.update_many({'$a$': $b$}, {'$set': {'$c$': $d$}})" description="updateMany @ mongodb" toReformat="false" toShortenFQNames="true">
     <variable name="COLLECTION" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="a" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="b" expression="" defaultValue="" alwaysStopAt="true" />
@@ -208,7 +208,7 @@
       <option name="Python" value="true" />
     </context>
   </template>
-  <template name="mongo-update-one" value="db.$COLLECTION$.update_one({'$a$', $b$}, {'$set': {'$c$': $d$}})" description="updateOne @ mongodb" toReformat="false" toShortenFQNames="true">
+  <template name="mongo-update-one" value="db.$COLLECTION$.update_one({'$a$': $b$}, {'$set': {'$c$': $d$}})" description="updateOne @ mongodb" toReformat="false" toShortenFQNames="true">
     <variable name="COLLECTION" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="a" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="b" expression="" defaultValue="" alwaysStopAt="true" />
