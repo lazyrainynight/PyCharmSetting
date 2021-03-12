@@ -186,6 +186,14 @@
             </plugin>
           </value>
         </entry>
+        <entry key="*.dart">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="Dart" />
+              <option name="myPluginName" value="Dart" />
+            </plugin>
+          </value>
+        </entry>
         <entry key="*.dcx">
           <value>
             <plugin>
@@ -1105,6 +1113,14 @@
             </plugin>
           </value>
         </entry>
+        <entry key="*.r">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="R4Intellij" />
+              <option name="myPluginName" value="R Language for IntelliJ" />
+            </plugin>
+          </value>
+        </entry>
         <entry key="*.regexp">
           <value>
             <plugin>
@@ -1132,6 +1148,14 @@
             </plugin>
           </value>
         </entry>
+        <entry key="*.rmd">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="R4Intellij" />
+              <option name="myPluginName" value="R Language for IntelliJ" />
+            </plugin>
+          </value>
+        </entry>
         <entry key="*.rnc">
           <value>
             <plugin>
@@ -1147,6 +1171,30 @@
               <option name="myPluginId" value="com.intellij" />
               <option name="myPluginName" value="IDEA CORE" />
               <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.rpluginskeletonfile">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="R4Intellij" />
+              <option name="myPluginName" value="R Language for IntelliJ" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.rprofile">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="R4Intellij" />
+              <option name="myPluginName" value="R Language for IntelliJ" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.rs">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="org.rust.lang" />
+              <option name="myPluginName" value="Rust" />
             </plugin>
           </value>
         </entry>
@@ -1326,6 +1374,14 @@
             </plugin>
           </value>
         </entry>
+        <entry key="*.toml">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="org.toml.lang" />
+              <option name="myPluginName" value="Toml" />
+            </plugin>
+          </value>
+        </entry>
         <entry key="*.ts">
           <value>
             <plugin>
@@ -1394,6 +1450,14 @@
               <option name="myPluginId" value="com.intellij" />
               <option name="myPluginName" value="IDEA CORE" />
               <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.vue">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="org.jetbrains.plugins.vue" />
+              <option name="myPluginName" value="Vue.js" />
             </plugin>
           </value>
         </entry>
@@ -1559,6 +1623,15 @@
             </plugin>
           </value>
         </entry>
+        <entry key=".analysis_options">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="org.jetbrains.plugins.yaml" />
+              <option name="myPluginName" value="YAML" />
+              <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
         <entry key=".babelrc">
           <value>
             <plugin>
@@ -1685,6 +1758,14 @@
             </plugin>
           </value>
         </entry>
+        <entry key="Cargo.lock">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="org.toml.lang" />
+              <option name="myPluginName" value="Toml" />
+            </plugin>
+          </value>
+        </entry>
         <entry key="Dockerfile">
           <value>
             <plugin>
@@ -1727,6 +1808,22 @@
               <option name="myPluginId" value="Docker" />
               <option name="myPluginName" value="Docker" />
               <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="Gopkg.lock">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="org.toml.lang" />
+              <option name="myPluginName" value="Toml" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="Pipfile">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="org.toml.lang" />
+              <option name="myPluginName" value="Toml" />
             </plugin>
           </value>
         </entry>
