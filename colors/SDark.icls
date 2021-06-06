@@ -3,7 +3,7 @@
     <property name="created">2019-09-22T20:37:58</property>
     <property name="ide">Python</property>
     <property name="ideVersion">2019.2.2.0.0</property>
-    <property name="modified">2021-06-06T00:08:44</property>
+    <property name="modified">2021-06-06T00:45:02</property>
     <property name="originalScheme">_@user_Darcula</property>
   </metaInfo>
   <attributes>
@@ -160,7 +160,7 @@
     <option name="PY.PREDEFINED_USAGE" baseAttributes="DEFAULT_PREDEFINED_SYMBOL" />
     <option name="PY.SELF_PARAMETER">
       <value>
-        <option name="FOREGROUND" value="ac9870" />
+        <option name="FOREGROUND" value="818181" />
       </value>
     </option>
     <option name="PY.STRING.B" baseAttributes="DEFAULT_STRING" />
