@@ -230,4 +230,56 @@
       <option name="Python" value="true" />
     </context>
   </template>
+  <template name="isPositive" value="&gt; 0" description="is positive" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CoffeeScript" value="true" />
+      <option name="DART" value="true" />
+      <option name="ECMAScript6" value="true" />
+      <option name="JAVA_SCRIPT" value="true" />
+      <option name="Python" value="true" />
+      <option name="R" value="true" />
+      <option name="RUST_FILE" value="true" />
+      <option name="SQL" value="true" />
+      <option name="TypeScript" value="true" />
+    </context>
+  </template>
+  <template name="isPositiveOrZero" value="&gt;= 0" description="is positive or zero" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CoffeeScript" value="true" />
+      <option name="DART" value="true" />
+      <option name="ECMAScript6" value="true" />
+      <option name="JAVA_SCRIPT" value="true" />
+      <option name="Python" value="true" />
+      <option name="R" value="true" />
+      <option name="RUST_FILE" value="true" />
+      <option name="SQL" value="true" />
+      <option name="TypeScript" value="true" />
+    </context>
+  </template>
+  <template name="isNegative" value="&lt; 0" description="is negative" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CoffeeScript" value="true" />
+      <option name="DART" value="true" />
+      <option name="ECMAScript6" value="true" />
+      <option name="JAVA_SCRIPT" value="true" />
+      <option name="Python" value="true" />
+      <option name="R" value="true" />
+      <option name="RUST_FILE" value="true" />
+      <option name="SQL" value="true" />
+      <option name="TypeScript" value="true" />
+    </context>
+  </template>
+  <template name="isNegativeOrZero" value="&lt;= 0" description="is negative or zero" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CoffeeScript" value="true" />
+      <option name="DART" value="true" />
+      <option name="ECMAScript6" value="true" />
+      <option name="JAVA_SCRIPT" value="true" />
+      <option name="Python" value="true" />
+      <option name="R" value="true" />
+      <option name="RUST_FILE" value="true" />
+      <option name="SQL" value="true" />
+      <option name="TypeScript" value="true" />
+    </context>
+  </template>
 </templateSet>
