@@ -290,4 +290,24 @@
       <option name="TypeScript" value="true" />
     </context>
   </template>
+  <template name="isEven" value="% 2 == 0" description="is even" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CoffeeScript" value="true" />
+      <option name="ECMAScript6" value="true" />
+      <option name="JAVA_SCRIPT" value="true" />
+      <option name="Python" value="true" />
+      <option name="SHELL_SCRIPT" value="true" />
+      <option name="TypeScript" value="true" />
+    </context>
+  </template>
+  <template name="isOdd" value="% 2 != 0" description="is odd" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CoffeeScript" value="true" />
+      <option name="ECMAScript6" value="true" />
+      <option name="JAVA_SCRIPT" value="true" />
+      <option name="Python" value="true" />
+      <option name="SHELL_SCRIPT" value="true" />
+      <option name="TypeScript" value="true" />
+    </context>
+  </template>
 </templateSet>
